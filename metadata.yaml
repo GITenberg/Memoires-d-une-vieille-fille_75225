@@ -1,0 +1,37 @@
+_repo: Memoires-d-une-vieille-fille_75225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bazin, René
+    alias: Bazin, Rene
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '1348'
+    url: http://www.gutenberg.org/2009/agents/1348
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Bazin
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Bazin
+description: ''
+gutenberg_issued: '2025-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75225'
+  lccn: 09030210
+language: fr
+pgterms:marc904: https://polona.pl/preview/3c8251e1-d29b-482f-b739-d24272fedd02
+pgterms:marc905: 20240214220811bazin
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Polona digital
+  library)
+publication_note: '  $aParis :$bCalmann-Lévy, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Mémoires d'une vieille fille
+url: http://www.gutenberg.org/ebooks/75225
